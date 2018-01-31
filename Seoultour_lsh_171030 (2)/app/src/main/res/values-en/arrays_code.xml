@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_code">
+        <item>Tourist Attractions</item>
+        <item>Cultural Facilities</item>
+        <item>Festivals/Events/Performances</item>
+        <item></item>
+        <item>Leisure/Sports</item>
+        <item>Accommodation</item>
+        <item>Shopping</item>
+        <item>Transportation</item>
+
+    </string-array>
+
+</resources>

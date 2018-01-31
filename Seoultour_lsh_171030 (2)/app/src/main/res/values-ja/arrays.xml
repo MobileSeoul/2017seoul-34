@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_sigungu">
+    <item>江南区</item>
+    <item>江東区</item>
+    <item>江北区</item>
+    <item>江西区</item>
+    <item>冠岳区</item>
+    <item>広津区</item>
+    <item>九老区</item>
+    <item>衿川区</item>
+    <item>蘆原区</item>
+    <item>道峰区</item>
+    <item>東大門区</item>
+    <item>銅雀区</item>
+    <item>麻浦区</item>
+    <item>西大門区</item>
+    <item>瑞草区</item>
+    <item>城東区</item>
+    <item>城北区</item>
+    <item>松坡区</item>
+    <item>陽川区</item>
+    <item>永登浦区</item>
+    <item>龍山区</item>
+    <item>恩平区</item>
+    <item>鍾路区</item>
+    <item>中区</item>
+    <item>中浪区</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "64266818208",
+    "firebase_url": "https://seoultour-c4e25.firebaseio.com",
+    "project_id": "seoultour-c4e25",
+    "storage_bucket": "seoultour-c4e25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64266818208:android:a8ced5efb86bbc69",
+        "android_client_info": {
+          "package_name": "com.example.a85625.seoultour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64266818208-trgfrome4oqaqkrmfuttk9ehiah4ovot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrxw1PyN9Mtgfovyzn4JxVV53dpWasTo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

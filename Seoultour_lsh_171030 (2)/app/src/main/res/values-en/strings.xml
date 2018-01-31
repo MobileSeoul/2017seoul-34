@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">서울나들이</string>
+	<string name="facebook_app_id">1915775998689286</string>
+	<string name="title_activity_messenger">MessengerActivity</string>
+    <string name="title_activity_info">InfoActivity</string>
+	<string name="info_text1">ADDRESS</string>
+	<string name="info_text2">PROVIDE INFOMATION</string>
+	<string name="info_text3">HOMEPAGE</string>
+	<string name="info_text4">TEL</string>
+	<string name="info_text5">CONTENTS</string>
+
+	<string name="join_title">DETAILED INFOMATION</string>
+	<string name="join_name">NAME : </string>
+	<string name="join_gender">GENDER : </string>
+	<string name="join_birth">BIRTHDAY : </string>
+	<string name="join_nation">NATION : </string>
+	<string name="join_lang">LANGUAGE : </string>
+	<string name="join_radio1">GUIDE</string>
+	<string name="join_radio2">TOURIST</string>
+	<string name="join_btn1">SETTING</string>
+	<string name="join_btn2">JOIN</string>
+	<string name="join_memo">MEMO : </string>
+
+	<string name="item_name">NAME :</string>
+	<string name="item_gender">GENDER :</string>
+	<string name="item_birth">AGE :</string>
+	<string name="item_lang">LANGUAGE :</string>
+
+	<string name="popup_title">DETAILED INFOMATION</string>
+	<string name="popup_btn1">APPLY</string>
+	<string name="popup_btn2">CLOSE</string>
+
+	<string name="request_time">DATE</string>
+	<string name="request_place">PLACE</string>
+	<string name="request_ok_button">ACCEPT</string>
+	<string name="request_cancel_button">REPUSE</string>
+	<string name="request_message_button">MESSAGE</string>
+</resources>

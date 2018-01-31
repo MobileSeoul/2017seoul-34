@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_sigungu">
+    <item>Gangnam-gu</item>
+    <item>Gangdong-gu</item>
+    <item>Gangbuk-gu</item>
+    <item>Gangseo-gu</item>
+    <item>Gwanak-gu</item>
+    <item>Gwangjin-gu</item>
+    <item>Guro-gu</item>
+    <item>Geumcheon-gu</item>
+    <item>Nowon-gu</item>
+    <item>Dobong-gu</item>
+    <item>Dongdaemun-gu</item>
+    <item>Dongjak-gu</item>
+    <item>Mapo-gu</item>
+    <item>Seodaemun-gu</item>
+    <item>Seocho-gu</item>
+    <item>Seongdong-gu</item>
+    <item>Seongbuk-gu</item>
+    <item>Songpa-gu</item>
+    <item>Yangcheon-gu</item>
+    <item>Yeongdeungpo-gu</item>
+    <item>Yongsan-gu</item>
+    <item>Eunpyeong-gu</item>
+    <item>Jongno-gu</item>
+    <item>Jongno-gu</item>
+    <item>Jungnang-gu</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date_code">
+        <item>관광지</item>
+        <item>문화시설</item>
+        <item>축제 공연 행사</item>
+        <item>여행 코스</item>
+        <item>레포츠</item>
+        <item>숙박</item>
+        <item>쇼핑</item>
+
+    </string-array>
+
+</resources>
